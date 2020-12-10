@@ -1,2 +1,2 @@
 # Scrappers
-Repository with some scrappers
+Simple web scrapers
